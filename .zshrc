@@ -167,3 +167,5 @@ source $ZSH/oh-my-zsh.sh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 stty erase '^?'
 alias dotfiles='/usr/bin/git --git-dir=/Users/dmdinh/.dotfiles/ --work-tree=/Users/dmdinh'
+alias dotfiles='/usr/bin/git --git-dir=/Users/dmdinh/.dotfiles/ --work-tree=/Users/dmdinh'
+alias dotfiles='/usr/bin/git --git-dir=/Users/dmdinh/.dotfiles/ --work-tree=/Users/dmdinh'
