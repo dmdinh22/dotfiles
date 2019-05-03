@@ -1,1 +1,0 @@
-/Users/dmdinh/.vim/vimrc
