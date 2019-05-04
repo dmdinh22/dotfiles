@@ -119,7 +119,7 @@ alias lsa='colorls -dla'
 alias ls='colorls'
 alias vsc='code .'
 alias cpsshkey='pbcopy < ~/.ssh/id_rsa.pub'
-alias sshcode='ssh root@45.77.127.192'
+alias sshvultr='ssh root@45.77.127.192'
 
 # User configuration for Oh My ZSH
 DISABLE_UPDATE_PROMPT=true
